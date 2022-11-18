@@ -1,0 +1,1017 @@
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\Valdez\OneDrive\Escritorio\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\YASS\Documents\TUP\LABO II\CINE_LABOII\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Laboratorio\TpIntegrador\3raParte\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\YASS\Documents\CINE_LABOII\Cine\3raParte\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\YASS\Documents\CINE_LABOII\verion gera\3raParte\Cine\Cine\obj\Debug\Cine.pdb
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe.config
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Cine.pdb
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\EnvDTE.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\stdole.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmHome.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.exe
+D:\Desktop\COSAS JUAMPI\Tec. en  Programacion\Laboratorio II\repo_yass_labII\CINE_LABOII\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmEntradas.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmFunciones.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmPeliculas.resources
+C:\Users\usuario\Desktop\UTN\CINE_LABOII\Cine\Cine\obj\Debug\Cine.Formularios.FrmSalas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Formularios.FrmFunciones.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Formularios.FrmEntradas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Formularios.FrmPeliculas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Formularios.FrmSalas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\Versiones\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Escritorio\Versiones\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Escritorio\Versiones\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\Versiones\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.pdb
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.exe.config
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.exe
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.pdb
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\EnvDTE.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\stdole.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmFunciones.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.frmHome.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmEntradas.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmPeliculas.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmSalas.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.exe
+D:\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmFunciones.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmEntradas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmPeliculas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmSalas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Valdez\OneDrive\Escritorio\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmFunciones.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmEntradas.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmPeliculas.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.FrmSalas.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\usuario\Desktop\CINE_LABOII-main(ULTIMO)\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\EnvDTE.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\stdole.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\EnvDTE.xml
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Formularios.FrmClientes.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Formularios.FrmFunciones.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.frmHome.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.frmLogin.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Formularios.FrmEntradas.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Formularios.FrmPeliculas.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Formularios.FrmSalas.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Formularios.frmSugerenciasMejoras.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmButacasVip.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmClasificacionesMasVistas.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmClientesAgosto.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmDescuentoTarjeta.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmMenos10Butacas.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmRecaudacionSpielberg.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmRecurrentes.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmTop5Agosto.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaOnline.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.Reportes.frmVentaxRango.resources
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Gonzalo\Desktop\CINE LABORATORIO\Cine\Cine\obj\Debug\Cine.pdb
